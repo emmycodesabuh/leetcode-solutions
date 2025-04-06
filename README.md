@@ -1,1 +1,1 @@
-A list of leetcode solutuins i've done.
+A list of leetcode solutions i've done.
